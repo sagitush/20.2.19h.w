@@ -1,0 +1,2 @@
+C:\Users\Liron\source\repos\17.2.19homework\17.2.19homework\obj\Debug\17.2.19homework.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\17.2.19homework\17.2.19homework\obj\Debug\17.2.19homework.csproj.CoreCompileInputs.cache
